@@ -1,5 +1,6 @@
 Lucas Vitareli
-# 👋 Hello! I'm Lucas Vitareli, a full stack developer student, so i'm constantly learning. Currently, I'm focused on improving my skills in JavaScript.
+# 👋 Hello! This is Lucas Vitareli,
+## I am a full stack developer student, so i'm constantly learning. Currently, I'm focused on improving my skills in JavaScript.
 
 ## About Me
 - 🎓 I'm committed to expanding my knowledge in programming, especially in web development. I'm always looking for new challenges and opportunities to learn and grow.

@@ -23,7 +23,7 @@ Lucas Vitareli
                       This project was developed using HTML, CSS, and JavaScript.
 
 ## Technologies
-⚙️ JavaScript | HTML | CSS | Node.js | React | MongoDB | C++ 
+⚙️ JavaScript | HTML | CSS | Node.js | VueJS | React | MongoDB | C++ 
 
 
 

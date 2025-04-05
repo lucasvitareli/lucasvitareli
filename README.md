@@ -1,31 +1,52 @@
-Lucas Vitareli
-# 👋 Hello! This is Lucas Vitareli,
-## I am a full stack developer student, currently focused on improving my skills in ReactJS.
+# 👋 Hi, I'm Lucas Vitareli
 
-## About Me
-- 🎓 I'm committed to expanding my knowledge in programming, especially in web development. I'm always looking for new challenges and opportunities to learn and grow.
+🎯 A Full Stack Developer student, currently focusing on building strong Front-End skills — especially in **ReactJS**.
 
-- 💡 I'm interested in collaborating on beginner projects to contribute my knowledge and, at the same time, learn from the community.
+---
 
-- 🌎 Brazilian, 32 years old, living in England for almost 10 years.
+## 🚀 About Me
+I'm passionate about web development and always seeking to improve my skills through practice, collaboration, and real-world projects.
 
-## How to Reach Me
-- 📧 You can contact me via email at lucas.vitareli@hotmail.com
+- 🇧🇷 Brazilian, currently living in the UK
+- 📚 Always learning — currently diving deeper into **React**, **TypeScript**, and **APIs**
+- 🤝 Open to contribute on beginner-friendly projects
 
-- ▶️ You can conect with me on LinkedIn --> www.linkedin.com/in/lucas-vitareli
+---
 
-- 📷 I'm also on Instagram as @luvitareli .Feel free to send me a message there!
+## 🛠️ Tech Stack
 
-## Recent Projects
-- 🚀 Time is ticking - A dynamic web app displaying time-based messages and visuals, showcasing HTML, CSS, and JS skills.
+**What I already work with:**
+- HTML5, CSS3, JavaScript (ES6+)
+- Git & GitHub
+- Responsive Design & Flexbox/Grid
+- ReactJS (Components, Props, State, JSX)
+- Gulp, Sass
 
-- 🔧 Grade calculator - A web app that allows students to add grades received per subject and automatically calculates an overall average, determining if, based on the minimum grade, they are approved or failed.
-                      This project was developed using HTML, CSS, and JavaScript.
+**What I'm currently learning:**
+- TypeScript
+- Node.js & Express
+- MongoDB
+- RESTful APIs
+- Testing basics
 
-## Technologies
-⚙️ JavaScript | HTML | CSS | Node.js | VueJS | React | MongoDB | C++ 
+---
 
+## 📌 Projects
 
+- [**Time is ticking**](#) ⏱️ – A web app displaying time-based messages and visuals (HTML, CSS, JS)
+- [**Grade calculator**](#) 📊 – Calculates average grades and determines pass/fail status (HTML, CSS, JS)
 
+> Check more projects on my [GitHub Repositories](https://github.com/lucasvitareli?tab=repositories)
 
+---
 
+## 📬 Contact Me
+
+- ✉️ Email: [lucas.vitareli@hotmail.com](mailto:lucas.vitareli@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/lucas-vitareli](https://www.linkedin.com/in/lucas-vitareli)  
+- 📷 Instagram: [@luvitareli](https://www.instagram.com/luvitareli)  
+
+---
+
+## 💡 Extra Tip
+If you're hiring or looking for a motivated junior dev who is eager to grow and contribute — **let's talk!**

@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0E76A8&height=200&section=header&text=Lucas%20Vitareli&fontSize=40&fontColor=ffffff" />
 </p>
-
-<h2 align="center">👋 Hi, I'm Lucas Vitareli</h2>
 <p align="center">💻 Full Stack Dev Student | 🎯 Focused on Front-End (ReactJS)</p>
 
 ---

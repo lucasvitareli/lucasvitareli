@@ -48,6 +48,9 @@ I'm passionate about web development and always seeking to improve my skills thr
 
 ## 🧪 Projects
 
+- ⏱️ [**Chef Navarro (Recipes Website)**]((https://github.com/lucasvitareli/recipes-page.git))  
+  A Website all built with React. *Still working on it*
+
 - ⏱️ [**Age Calculator APP**](https://github.com/lucasvitareli/Age-Calculator-app/tree/main)  
   An interactive web application that calculates a user's age based on their inputted birth date. It provides the result in years, months, and days. Built with **HTML, SASS, JavaScript**.
 
